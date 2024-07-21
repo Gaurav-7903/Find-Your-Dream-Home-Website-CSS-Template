@@ -741,10 +741,6 @@ input[type="text"] {
 }
 
 @media (max-width:992px) {
-  .testimonials-con-info {
-    /* flex-direction: column; */
-  }
-
   .rating {
     padding: .2rem;
   }
